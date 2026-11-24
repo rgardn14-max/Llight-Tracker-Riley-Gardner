@@ -11,4 +11,4 @@ readings are close, the platform holds its position.
 
 
 ## Arduino Code
-[Download my Arduino sketch](./Light-Tracker-code(1).ino)
+[Download my Arduino sketch](./Light-Tracker-code.ino)
