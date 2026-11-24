@@ -7,7 +7,8 @@ the readings and moves the servo toward the brighter side. When the
 readings are close, the platform holds its position.
 
 ## Demo
-[Watch the light tracker follow a flashlight](./81718426208__3BF67AD4-0C15-4DF3-872E-12F4D8BC55ED(1).MOV)
+[Watch the light tracker follow a flashlight](./demo.mp4)
+
 
 ## Arduino Code
 [Download my Arduino sketch](./Light-Tracker-code(1).ino)
